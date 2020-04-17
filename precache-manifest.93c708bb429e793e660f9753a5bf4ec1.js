@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f10201f7b0c93e3043d0dda61a3bba33",
+    "revision": "f7b8c43736bfd145fe7e4f563ccafb8e",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.8668d65b.chunk.css"
   },
   {
-    "revision": "f22ef88bbd4db8de2c13",
+    "revision": "22b713a4c7ec5c289d8b",
     "url": "/static/css/main.2bb16b1a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.e3e96caa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f22ef88bbd4db8de2c13",
-    "url": "/static/js/main.c5a6f760.chunk.js"
+    "revision": "22b713a4c7ec5c289d8b",
+    "url": "/static/js/main.0d338b74.chunk.js"
   },
   {
     "revision": "693f19927197039bdaf2",
@@ -45,19 +45,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "7f475f02a259a63678ef13e25aec31bf",
-    "url": "/static/media/Comedian1.7f475f02.jpg"
+    "url": "/static/media/Comico1.7f475f02.jpg"
   },
   {
     "revision": "619e445ea6d9d7f1ed6f017b8863b092",
-    "url": "/static/media/Comedian2.619e445e.jpg"
+    "url": "/static/media/Comico2.619e445e.jpg"
   },
   {
     "revision": "4ad7b16b851585a72ee40fd7f17c58fb",
-    "url": "/static/media/Comedian3.4ad7b16b.jpg"
+    "url": "/static/media/Comico3.4ad7b16b.jpg"
   },
   {
     "revision": "50751fcdf21b8bfdfad958152bd700f5",
-    "url": "/static/media/Comedian4.50751fcd.jpeg"
+    "url": "/static/media/Comico4.50751fcd.jpeg"
   },
   {
     "revision": "4f33a3eb2efe48edf274a78a92768b8b",
